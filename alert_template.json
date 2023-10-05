@@ -1,0 +1,5 @@
+{
+    "chat_id": "-1001908039645",
+    "parse_mode": "Markdown",
+    "text": "Alert '{{rule.name}}' triggered. [Link]({{context.alertDetailsUrl}})"
+}
